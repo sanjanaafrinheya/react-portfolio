@@ -1,0 +1,53 @@
+.input-me{
+    width: 100%;
+    background:#222222 ;
+    padding:15px 0px;
+    border:none;
+    margin-bottom: 20px;
+}
+.massage{
+    width: 100%;
+    background:#222222 ;
+    padding:15px 0px;
+    border:none;
+    margin-bottom: 20px; 
+}
+.contact-us{
+    padding:16px 36px;
+    background:transparent;
+    border:3px solid#BC8CF2;
+     color:#BC8CF2;
+}
+.contact-us:hover{
+    padding:16px 36px;
+    background:#BC8CF2;
+    border:none;
+     color:#fff;
+     transition: 0.5s;
+}
+.contact-us a{
+    color:#BC8CF2;
+}
+.contact-us:hover a{
+   
+   color:#fff;
+    transition: 0.5s;
+}
+.contact-left span{
+    color:#BC8CF2;
+    
+}
+.contact-left h2{
+    color:#fff;
+}
+.contact-left p{
+    color:#fff;
+    margin:0 !important;
+}
+.contact-left h4{
+    color:#fff;
+    margin-top: 5px;
+}
+.contact-us{
+    margin-bottom: 40px;
+}

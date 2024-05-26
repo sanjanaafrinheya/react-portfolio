@@ -1,0 +1,52 @@
+.menubg{
+    border-bottom: 0.1rem solid var(--grey);
+    background: rgba(0, 0, 0, 0.8);
+}
+ .menubg .logo{
+    color:#BC8CF2;
+    font-size: 2.5rem;
+    font-weight: 900;
+    font-family: "Roboto Serif", serif; 
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    
+}
+.menubg .logo:hover{
+    color:#BC8CF2;
+}
+.menubg .menulink a{
+    color:#fff;
+    font-size:20px;
+   
+   
+}
+
+.menubg .menulink a:hover{
+    color:#BC8CF2;
+}
+.is-current{
+    color:#fff !important;
+    background:#BC8CF2 !important; 
+}
+
+@media (max-width:767px){
+.menubg .menulink a{
+    display:block !important;
+    text-align: center;
+}
+.navbar-toggler-icon{
+    background-color: #fff;
+}
+}
+@media (min-width: 768px)and (max-width:991px) {
+    .navbar-toggler-icon{
+        background-color: #fff;
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px){
+
+}
+@media (min-width:1200px) and (max-width:1399px){
+
+}

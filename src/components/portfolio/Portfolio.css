@@ -1,0 +1,50 @@
+.port-main{
+    overflow: hidden;
+}
+
+.port{
+   position:relative;
+   overflow: hidden !important;
+}
+.port img{
+    width:100%;
+
+}
+.port:hover{
+    transform: scale(1.1);
+    
+}
+.port-overlay{
+    position: absolute;
+    top: 24px;
+    left:35px;
+    height:80%;
+    width:80%;
+    background: rgba(0, 0, 0, 0.8);
+    text-align: center;
+    transform: scale(0);
+    transition: 0.5s;
+   
+
+}
+.port:hover .port-overlay{
+    
+    transform: scale(1);
+    transition: 0.5s;
+}
+.port-overlay h4{
+    color: #BC8CF2;
+    margin-top: 40px;
+}
+.port-overlay p{
+    color:#FFF;
+}
+.port-overlay i{
+    color:#BC8CF2;
+}
+ button .nav-link{
+    clor:#fff;
+}
+button{
+    color:#BC8CF2 !important; 
+}

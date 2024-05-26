@@ -1,0 +1,12 @@
+.skill-head{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.skill-head h2{
+    text-align: center;
+    color:#fff;
+}
+#skill{
+    padding: 80px 0px;
+}

@@ -1,0 +1,52 @@
+
+.bann-left{
+    padding:100px 0px;
+
+}
+.bann-left h2{
+    color:#BC8CF2 !important;
+}
+.bann-left span{
+    color:#fff !important;
+}
+
+
+#home p{
+    color:#fff;
+}
+.btn-me {
+    padding:16px 32px;
+    border: 3px solid#BC8CF2;
+    background: transparent; 
+   
+}
+.btn-me a{
+    color:#BC8CF2;
+}
+
+.btn-me:hover{
+    background: #BC8CF2;
+    color:#fff;
+    border:none;
+    transition:0.5s ;
+}
+.btn-me:hover a{
+    color:#fff;
+    transition:0.5s ;
+}
+
+.bann-image{
+max-width:420px;
+max-height:420px;
+
+}
+.bann-image img{
+    width:100%;
+    border-radius:50% 50% 50% 50% / 30% 30% 70% 70%;
+}
+.bann-span{
+    color:#fff;
+}
+.bann-left h2 span{
+    color:#BC8CF2;
+}

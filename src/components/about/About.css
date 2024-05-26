@@ -1,0 +1,53 @@
+#about{
+    padding:80px 0px;
+}
+
+
+.about-img{
+    max-width:38rem;
+    background: #BC8CF2;
+    padding:18px;
+}
+
+
+.about-img img{
+    width:100%;
+}
+.counterup span{
+    text-align: center !important;
+    color:#BC8CF2;
+    font-size: 3rem;
+    display: inline-block;
+}
+.counterup{
+    text-align: center;
+}
+.about-text h2{
+    color:#fff;
+}
+.about-text p{
+    color:#fff;
+    opacity:0.9;
+}
+.info p{
+    color:#fff;
+    margin-bottom:10px !important;
+}
+.about-btn{
+    padding:16px 32px;
+    border:3px solid#BC8CF2;
+    background: transparent;
+    transition: 0.5s;
+}
+.about-btn a{
+  color:#BC8CF2;
+}
+.about-btn:hover a{
+    color:#fff;
+    transition:0.5s;
+}
+.about-btn:hover{
+    background: #BC8CF2;
+    border:none;
+    transition:0.5s;
+}
