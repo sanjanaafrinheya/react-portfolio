@@ -8,7 +8,7 @@ import Scrollspy from 'react-scrollspy'
 const Menu = () => {
 
   return (
-    <Navbar expand="lg" sticky="top" className='menubg'>
+    <Navbar expand="xl" sticky="top" className='menubg'>
        
       <Container>
         <Navbar.Brand className='logo' href="#home">SANJANA</Navbar.Brand>

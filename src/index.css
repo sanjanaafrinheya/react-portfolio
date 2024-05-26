@@ -29,6 +29,6 @@ p{
 body{
   font-family: "Roboto Serif", serif !important; 
   background: #000 !important;
-  overflow-x: hidden;
+  overflow-x: hidden !important;
 
 }
