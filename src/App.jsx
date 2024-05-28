@@ -13,13 +13,13 @@ import Blog from './components/blog/Blog'
 import Portfolio from './components/portfolio/Portfolio'
 
 import Testimonialslide from './components/Testimonial slide/Testimonialslide'
-import {Ripple} from 'react-preloaders';
+
 function App() {
   
 
   return (
     <>
-      <Ripple/>
+      
      <Menu/>
      <Banner/>
      <About/>
