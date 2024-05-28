@@ -15,7 +15,7 @@ const Service = () => {
   return (
    <section id="service">
     <Container>
-    <div  data-aos="fade-up-left">
+    <div  data-aos="fade-up">
     <Headerresuable main="My" para="Services"/>
     </div>
         <Row>

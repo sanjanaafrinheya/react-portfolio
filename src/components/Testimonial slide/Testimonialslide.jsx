@@ -75,7 +75,7 @@ const Testimonialslide = () => {
   return (
   <section id="testimonial">
     <Container>
-      <div  data-aos="fade-up-left">
+      <div data-aos="fade-up">
     <Headerresuable para="Testimonial"/>
     </div>
         <Row>

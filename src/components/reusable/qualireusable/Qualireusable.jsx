@@ -5,7 +5,7 @@ const Qualireusable = (props) => {
   return (
    <>
      <Col lg={6} >
-                <div className="quali-left " data-aos="fade-right">
+                <div className="quali-left "data-aos="flip-left">
                     <div className="cap">
                      {props.icon}
                     </div>
