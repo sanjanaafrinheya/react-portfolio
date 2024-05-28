@@ -11,7 +11,8 @@ import Headerresuable from '../reusable/headerreusable/Headerresuable';
 const About = () => {
   return (
     <section id="about">
-        <div  data-aos="fade-up-left">
+        <div  data-aos="fade-up"
+     data-aos-anchor-placement="top-bottom">
         <Headerresuable para="About"/> 
         </div>
     <Container>
@@ -42,7 +43,7 @@ const About = () => {
                     <Col lg={8}>
                         <Row>
                             <Counterup numl="4" nums="0" para="Years of Experience"/>
-                            <Counterup numl="100" nums="1" para="Projects Completed"/>
+                            <Counterup numl="100" nums="0" para="Projects Completed"/>
                             <Counterup numl="80" nums="0" para="Happy Clients"/>
                             <Counterup numl="20" nums="0" para="Awards Won"/>
                         </Row>

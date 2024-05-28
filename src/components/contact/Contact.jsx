@@ -9,7 +9,8 @@ const Contact = () => {
   return (
  <section id="contact">
     <Container>
-      <div  data-aos="fade-up-left">
+      <div  data-aos="fade-up"
+     data-aos-anchor-placement="top-bottom">
       <Headerresuable main="My" para="Contact"/>
       </div>
    

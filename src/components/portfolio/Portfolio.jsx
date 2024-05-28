@@ -17,7 +17,8 @@ const Portfolio = () => {
   return (
     <section id="portfolio">
         <Container>
-        <div  data-aos="fade-up-left">
+        <div  data-aos="fade-up"
+     data-aos-anchor-placement="top-bottom">
         <Headerresuable main="My" para="Portfolio"/>
         </div>
             <Row>

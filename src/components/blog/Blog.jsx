@@ -73,7 +73,8 @@ const Blog = () => {
   return (
     
   <section id="blogs">
-    <div  data-aos="fade-up-left">
+    <div data-aos="fade-up"
+     data-aos-anchor-placement="top-bottom">
     <Headerresuable main="My" para="Blog"/>
     </div>
   
