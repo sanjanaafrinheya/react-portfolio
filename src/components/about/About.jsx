@@ -42,7 +42,7 @@ const About = () => {
                     <Col lg={8}>
                         <Row>
                             <Counterup numl="4" nums="0" para="Years of Experience"/>
-                            <Counterup numl="100" nums="0" para="Projects Completed"/>
+                            <Counterup numl="100" nums="1" para="Projects Completed"/>
                             <Counterup numl="80" nums="0" para="Happy Clients"/>
                             <Counterup numl="20" nums="0" para="Awards Won"/>
                         </Row>
