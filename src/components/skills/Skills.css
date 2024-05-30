@@ -10,3 +10,10 @@
 #skill{
     padding: 80px 0px;
 }
+.ipol{
+display: flex;
+justify-content: center;
+}
+.meee{
+    text-align: center;
+}
