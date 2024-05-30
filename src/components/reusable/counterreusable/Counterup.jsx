@@ -20,7 +20,8 @@ const Counterup = (props) => {
 <CountUp start={props.nums} end={props.numl} delay={0}>
   {({ countUpRef }) => (
     <div>
-      <span ref={countUpRef} />
+      <span ref={countUpRef} /><span>+</span>
+      <h4>{props.para}</h4>
     </div>
   )}
 </CountUp>
