@@ -1,12 +1,12 @@
 import React from 'react'
 import ProgressBar from "@ramonak/react-progress-bar";
 import "./Progressreusable.css"
-import { Row,Col } from 'react-bootstrap'
+import { Col } from 'react-bootstrap'
 const Progressreusable = (props) => {
   return (
     
-  <Row>  
-<Col lg={6}>
+  <>  
+
 <div className="black">
       <div className="star d-flex ">
         <div className="one">
@@ -24,8 +24,8 @@ const Progressreusable = (props) => {
               baseBgColor="#222"
               height="10px"  />   
     </div>
-</Col>
-    </Row>
+
+    </>
   
   )
 }
