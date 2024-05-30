@@ -8,7 +8,7 @@ const Counterup = (props) => {
                             
                             <Col lg={6}>
                                     <div className="counterup">
-                                    <CountUp start={props.nums} end={props.numl}>
+                                    <CountUp end={props.numl}>
   {({countUpRef, start }) => (
     <div>
       <span ref={countUpRef} /><span>+</span>
