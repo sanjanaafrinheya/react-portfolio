@@ -20,6 +20,7 @@ const Menu = () => {
           <Scrollspy items={ ['home', 'about', 'service','portfolio','testimonial','blogs','contact'] } currentClassName="is-current">
             <Nav.Link href="#home">Home</Nav.Link>
             <Nav.Link href="#about"> About</Nav.Link>
+            <Nav.Link href="#skill"> Skills</Nav.Link>
             <Nav.Link href="#service">Service</Nav.Link>
             <Nav.Link href="#portfolio">Portfolio</Nav.Link>
             <Nav.Link href="#testomonials">Testimonials</Nav.Link>
