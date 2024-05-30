@@ -1,0 +1,17 @@
+.star{
+    display: flex;
+    justify-content: space-between;
+}
+
+.barCompleted{
+    background-color:#bc8cf2;
+}
+.black{
+    margin: 20px 0px;
+}
+.one h4{
+    color:#fff;
+}
+.two span{
+    color:#fff;
+}
